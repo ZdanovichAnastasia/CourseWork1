@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SServer">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAAAAAAAgAAAIAAAAAAAAAgEAIAAEAAAAAA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfoService">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IABBAAAAIAAABAAAUAAAAQAQAAAEAgAQAAAAAAAABCA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitnessCenter">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAIAAAUAACAAKAAAAAAAAAQAAAAAAAEA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FitService">
+    <Position X="6.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAQEBABIAACIAAAAAABAAAAAAAAAAABgA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Method">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgQQAAAAABAgAAAAAAABAAABAAQAgACAAA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
