@@ -1,5 +1,5 @@
-# Course project for decision making by the rank method (for example, a poultry farm)
-Users can register in the system and can rate a specific solution suggested by the administrator. These assessments help poultry farm make specific decisions.
+# Course project on decision-making by the method of full pairwise comparison (for example, a fitness center)
+Users can register in the system and can rate a specific solution suggested by the administrator. These assessments help fitness center make specific decisions.
 ## Technologies
 Language: C++
 <!--comment-->
